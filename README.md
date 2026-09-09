@@ -29,7 +29,7 @@ I'm an Economics student (with a Computer Science minor) at the University of De
 
 ---
 
-## 🛠️ Tools & Tech
+##  Tools & Tech
 
 **Data Analysis:** Python · SQL · Excel · STATA  
 **Visualization:** Power BI · Tableau · MATLAB  
