@@ -51,12 +51,6 @@ I'm an Economics student (with a Computer Science minor) at the University of De
 
 ---
 
-##  GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Madhavi-Kapoor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EC4B6&icon_color=2EC4B6&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhavi-Kapoor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EC4B6&text_color=C9D1D9" />
 
 </div>
 
